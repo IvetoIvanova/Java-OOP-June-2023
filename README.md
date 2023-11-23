@@ -40,6 +40,6 @@ Welcome to the repository for the "Java-OOP-June-2023" course! Here you will fin
 
 ## License
 
-This repository is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This repository is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 Feel free to explore and learn using this repository. Happy coding!
