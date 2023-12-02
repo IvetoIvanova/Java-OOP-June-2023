@@ -51,7 +51,6 @@ public abstract class BaseDiscoverer implements Discoverer {
         return this.energy > 0;
     }
 
-    //TODO debug dig() method
     @Override
     public void dig() {
         this.energy -= 15;
@@ -60,5 +59,4 @@ public abstract class BaseDiscoverer implements Discoverer {
         }
     }
 
-    //protected abstract void dig(double energy);
 }

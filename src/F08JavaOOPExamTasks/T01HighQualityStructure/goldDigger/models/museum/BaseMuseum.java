@@ -10,7 +10,6 @@ public class BaseMuseum implements Museum{
         exhibits = new ArrayList<>();
     }
 
-    //TODO: check
     @Override
     public Collection<String> getExhibits() {
         return this.exhibits;
